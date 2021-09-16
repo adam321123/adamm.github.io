@@ -1,3 +1,0 @@
-1. Buat design atau lihat referensi design dari internet seperti dribble
-2. (Optional) Buat interaksi (UX) Experience agar web terlihat lebih hidup dan Buat alur web atau flow dari proses interaksi dari web tersebut jika web adalah bertipe multiple page.
-2. 
